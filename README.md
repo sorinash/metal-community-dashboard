@@ -34,8 +34,8 @@ Finally, for each community, the following information is detailed:
   <li>The degree of said band</li>
   <li>The average degree for bands within the community</li>
   <li>The number of end branches (ie, bands that are only connected to 1 other band) in the community</li>
-  <li>The [assortativity](https://en.wikipedia.org/wiki/Assortativity) of the community. This scale runs from -1 to 1.</li>
-  <li>The [clustering coefficient](https://en.wikipedia.org/wiki/Clustering_coefficient) of the community.</li>
+  <li>The assortativity of the community. This scale runs from -1 to 1.</li>
+  <li>The clustering coefficient of the community.</li>
   <li>The density of the community (ie, what proportion of the possible connections are actually present).</li></li>
 </ol>
 

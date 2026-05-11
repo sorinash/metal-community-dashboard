@@ -1,6 +1,6 @@
 <h1>Metal Community Visualization Dashboard</h1>
 
-This project provides a means of visualizing the traits and geographic distributions of communities within a network of heavy metal bands as scraped from the Metal Archives. 
+[This project](https://sorinash.github.io/) provides a means of visualizing the traits and geographic distributions of communities within a network of heavy metal bands as scraped from the Metal Archives. 
 
 <h2>Background</h2>
 
